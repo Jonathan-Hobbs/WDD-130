@@ -1,0 +1,10 @@
+
+body {
+    background: turquoise;
+}
+
+#wrapper {
+    background-color: aquamarine;
+    width: 900px;
+    margin: auto;
+}
