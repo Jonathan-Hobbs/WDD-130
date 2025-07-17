@@ -21,7 +21,7 @@ body {
 
 #milkyway {
     /* background-color: #7D80DA; */
-    background-image: url("/wdd130/Portal/images/vast-milky-way.jpg");
+    background-image: url("/Portal/images/vast-milky-way.jpg");
     width:100%;
     height: 100%;
     background-size: cover;
